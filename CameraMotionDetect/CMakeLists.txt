@@ -13,9 +13,6 @@ add_library(
 	recorder.cpp 
 )
 
-#set(OpenCV_DIR "C:/Dev\openCV_build\build\install")
-#set(OpenCV_DIR "C:/Dev/openCV_build/build/install")
-
 find_package(OpenCV REQUIRED)
 
 target_compile_definitions(recorder PUBLIC RASPBERRYPI)
