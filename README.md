@@ -3,7 +3,7 @@
 <br/>
 
 ## Install OpenCV on RaspberryPI 
-* Followed intructions from pyimagesearch [ref1] and learnopencv [ref2]. 
+* Followed intructions from pyimagesearch [1] and learnopencv [2]. 
 * Here are the installation steps: <br/>
 
 <p align="center">
@@ -15,7 +15,7 @@
 * A project to build a surveillance camera for my home. 
 * Features: 
   * When detect moving objects the camera starts to record for a period of time and then stop. <br/>
-  * The algorithm for moving object detection is based on image subtraction [ref3]. <br/>
+  * The algorithm for moving object detection is based on image subtraction [3]. <br/>
   * Checks hardward free space before recording to avoid running out of space. <br/>
 <pre><p align="center">
 <img src="https://user-images.githubusercontent.com/86133411/153816022-855bdc5d-ab93-4e00-a055-9b8bd01e90b8.png" width="283" height="258">            <img src="https://user-images.githubusercontent.com/86133411/153816013-82f2b5ec-0f48-4bc2-b36b-17212a190a31.png">
@@ -28,8 +28,8 @@
 <br/><br/>
 
 # References 
-[ref1] Vishwesh Shrimali, https://learnopencv.com/install-opencv-4-on-raspberry-pi/. <br/>
-[ref2] Adrian Rosebrock, https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/. <br/>
-[ref3] Chris Dahms, https://www.youtube.com/watch?v=7SM5OD2pZKY&t=0s. <br/>
+[1] Vishwesh Shrimali, https://learnopencv.com/install-opencv-4-on-raspberry-pi/. <br/>
+[2] Adrian Rosebrock, https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/. <br/>
+[3] Chris Dahms, https://www.youtube.com/watch?v=7SM5OD2pZKY&t=0s. <br/>
 
 
