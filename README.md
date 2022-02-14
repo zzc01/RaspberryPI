@@ -14,13 +14,16 @@
 #### [CameraMotionDetect](/CameraMotionDetect)
 * A project to build a surveillance camera for my home. 
 * Features: 
-  * Detects moving objects and start to record for a period of time and then stop. <br/>
-  * The moving object detection algorithm is based on image subtraction [ref3]. <br/>
+  * When detect moving objects the camera starts to record for a period of time and then stop. <br/>
+  * The algorithm for moving object detection is based on image subtraction [ref3]. <br/>
   * Checks hardward free space before recording to avoid running out of space. <br/>
 <pre><p align="center">
 <img src="https://user-images.githubusercontent.com/86133411/153816022-855bdc5d-ab93-4e00-a055-9b8bd01e90b8.png" width="283" height="258">            <img src="https://user-images.githubusercontent.com/86133411/153816013-82f2b5ec-0f48-4bc2-b36b-17212a190a31.png">
 </p></pre>
 
+<pre><p align="center">
+<img src="https://user-images.githubusercontent.com/86133411/153915136-0634f358-da64-494b-a0a8-3379ca0aaa0d.png" width="283" height="258">            <img src="https://user-images.githubusercontent.com/86133411/153915151-2d1e5e6d-fa98-4253-ac94-987447ec40a2.png">
+</p></pre>
 
 <br/><br/>
 
