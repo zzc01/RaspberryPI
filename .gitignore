@@ -1,3 +1,12 @@
+*.vcxproj
+*.filters
+*.user
+*.mp4
+*.avi
+*.sln
+x64/
+
+
 # Prerequisites
 *.d
 
