@@ -4,6 +4,8 @@
 *.mp4
 *.avi
 *.sln
+*.png
+*.bak
 x64/
 
 
