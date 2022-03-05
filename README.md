@@ -1,27 +1,22 @@
-# RaspberryPI Projects 
+# Qt Projects 
   
 <br/>
 
-## Install OpenCV on RaspberryPI 
-* Followed intructions from pyimagesearch [1] and learnopencv [2]. 
-* Here are the installation steps: <br/>
+## Install Qt 
+* Followed intructions from VoidRealms [1]. 
+* Need to registration to download Qt from its website. 
+* For the packages can use Qt Maintenance Tool to add them later. 
+* There are some other websites that demonstrates how to install and use openCV in QT. <br/><br/>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/86133411/153903124-70a56476-43a4-4808-9105-c1cccb1ad4ac.png" width="182" height="505">
-</p>
 
 ## Notes
-#### [CameraMotionDetect](/CameraMotionDetect)
+#### [Qt_QhttpDownloadFilesFromWeb](/Qt_QhttpDownloadFilesFromWeb)
 * A project to build a surveillance camera for my home. 
 * Features: 
   * When detect moving objects the camera starts to record for a period of time and then stop. <br/>
   * The algorithm for moving object detection is based on image subtraction [3]. <br/>
   * Checks hardward free space before recording to avoid running out of space. <br/>
 
-* The RaspberryPI and camera setup 
-<pre><p align="center">
-<img src="https://user-images.githubusercontent.com/86133411/153816022-855bdc5d-ab93-4e00-a055-9b8bd01e90b8.png" width="283" height="258">            <img src="https://user-images.githubusercontent.com/86133411/153816013-82f2b5ec-0f48-4bc2-b36b-17212a190a31.png">
-</p></pre>
 
 * Me walking in front of the house to test the motion detection camera 
 <pre><p align="center">
@@ -31,8 +26,6 @@
 <br/><br/>
 
 # References 
-[1] Vishwesh Shrimali, https://learnopencv.com/install-opencv-4-on-raspberry-pi/. <br/>
-[2] Adrian Rosebrock, https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/. <br/>
-[3] Chris Dahms, https://www.youtube.com/watch?v=7SM5OD2pZKY&t=0s. <br/>
+[1] VoidRealms, https://www.youtube.com/channel/UCYP0nk48grsMwO3iL8YaAKA/. <br/>
 
 
