@@ -34,5 +34,3 @@
 [1] Vishwesh Shrimali, https://learnopencv.com/install-opencv-4-on-raspberry-pi/. <br/>
 [2] Adrian Rosebrock, https://www.pyimagesearch.com/2019/09/16/install-opencv-4-on-raspberry-pi-4-and-raspbian-buster/. <br/>
 [3] Chris Dahms, https://www.youtube.com/watch?v=7SM5OD2pZKY&t=0s. <br/>
-
-
