@@ -7,7 +7,7 @@
 *.png
 *.bak
 x64/
-
+opencv/
 
 # Prerequisites
 *.d
