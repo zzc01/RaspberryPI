@@ -5,14 +5,13 @@
 ## Install OpenCV on RaspberryPI 
 * Followed intructions from pyimagesearch [1] and learnopencv [2]. 
 * Here are the installation steps: <br/>
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/86133411/153903124-70a56476-43a4-4808-9105-c1cccb1ad4ac.png" width="182" height="505">
+  <img src="https://user-images.githubusercontent.com/86133411/156970122-e0c0ac51-babd-44e6-8fe0-6bede44ba0b7.png" width="238" height="461">
 </p>
 
 ## Notes
 #### [CameraMotionDetect](/CameraMotionDetect)
-* A project to build a surveillance camera for my home. 
+* In this project I build a surveillance camera for my home. The camera detects and records moving object. 
 * Features: 
   * When detect moving objects the camera starts to record for a period of time and then stop. <br/>
   * The algorithm for moving object detection is based on image subtraction [3]. <br/>
